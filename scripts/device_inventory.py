@@ -36,4 +36,4 @@ for device in devices:
 print("-" * 65)
 print(f"Total devices: {len(devices)}")
 
-
+Mytest -github
