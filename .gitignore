@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Generated output
+output/*
+!output/.gitkeep
+
+# IDE settings
+.vscode/
+.idea/
